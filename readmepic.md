@@ -10,26 +10,27 @@
 
 Tracking线程的步骤概览
 
-![](doc/2. Tracking线程的步骤概览.jpg)
+![](doc/2.Tracking线程的步骤概览.jpg)
 
 初始化1
 
-![](doc/3. Tracking——(1)初始化1.jpg)
+![](doc/3.Tracking——(1)初始化1.jpg)
 
 初始化2
 
-![](doc/3. Tracking——(1)初始化2.jpg)
+![](doc/3.Tracking——(1)初始化2.jpg)
 
 初始化3
 
-![](doc/3. Tracking——(1)初始化3.jpg)
+![](doc/3.Tracking——(1)初始化3.jpg)
 
 初始化4
-![](doc/3. Tracking——(1)初始化4.jpg)
+
+![](doc/3.Tracking——(1)初始化4.jpg)
 
 从运动模式_参考帧跟踪
 
-![](doc/4. Tracking——(2)从运动模式_参考帧跟踪.jpg)
+![](doc/4.Tracking——(2)从运动模式_参考帧跟踪.jpg)
 
 重定位跟踪1
 
